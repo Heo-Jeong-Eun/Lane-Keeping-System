@@ -1,7 +1,7 @@
-# Line Detection Driving 
+# Lane Keeping System
 The Records of Line Detection Project.
 
-> ****<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Line Detection Driving (Xycar) - 2023</a>****
+> ****<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Lane Keeping System (Xycar) - 2023</a>****
 > 
 > - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
