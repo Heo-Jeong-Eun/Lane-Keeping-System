@@ -1,5 +1,5 @@
 # Lane Keeping System
-The Records of Line Detection Project.
+The Records of Lane Keeping System Project.
 
 > ****<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Lane Keeping System (Xycar) - 2023</a>****
 > 
